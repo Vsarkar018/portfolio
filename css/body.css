@@ -148,3 +148,16 @@ color: white;
 .contact p {
     font-size: 20px;
 }
+
+.CPP:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+.C:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+.html:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
